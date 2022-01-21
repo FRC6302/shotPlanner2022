@@ -7,7 +7,6 @@ import numpy as np
 from scipy.integrate import solve_ivp
 
 
-
 g = 9.81
 rim_width = 1.2192 #4ft
 rim_height = 2.64 
